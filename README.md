@@ -1,7 +1,7 @@
 # networking_applications
 "Networking Applications" course projects from USC M.S. in intelligent robotics
 
-**zip file contains all cpp files
+*zip file contains all cpp files
 - auctionserver.cpp:
 	Sets up a synchronous I/O multiplexing server (per Beej's networking code) that can handle data from multiple clients.
 	The main workhorse of this file is CreateMultiSynchIOServer_Phase1() and CreateMultiSynchIOServer_Phase2().
